@@ -1,0 +1,214 @@
+{
+  "arxiv_papers": [
+    {
+      "id": 1,
+      "url": "https://arxiv.org/abs/2601.21268",
+      "title": "Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 2,
+      "url": "https://arxiv.org/abs/2601.07948",
+      "title": "Reinforcement Learning Methods for Neighborhood Selection in Local Search",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 3,
+      "url": "https://arxiv.org/abs/2601.15353",
+      "title": "Statistical Reinforcement Learning in the Real World: A Survey of Challenges and Future Directions",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 4,
+      "url": "https://arxiv.org/abs/2601.20802",
+      "title": "Reinforcement Learning via Self-Distillation",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 5,
+      "url": "https://arxiv.org/abs/2601.12212",
+      "title": "Speculative Sampling with Reinforcement Learning",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 6,
+      "url": "https://arxiv.org/abs/2602.05885",
+      "title": "Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 7,
+      "url": "https://arxiv.org/abs/2601.09667",
+      "title": "Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 8,
+      "url": "https://arxiv.org/abs/2602.13949",
+      "title": "Experiential Reinforcement Learning",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 9,
+      "url": "https://arxiv.org/abs/2602.08234",
+      "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 10,
+      "url": "https://arxiv.org/abs/2601.18795",
+      "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
+      "category": "AI and RL (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 11,
+      "url": "https://arxiv.org/abs/2407.09107",
+      "title": "MLOps: A Multiple Case Study in Industry 4.0",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 12,
+      "url": "https://arxiv.org/abs/2308.10908",
+      "title": "MLOps: A Review",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 13,
+      "url": "https://arxiv.org/abs/2501.08402",
+      "title": "Addressing Quality Challenges in Deep Learning: The Role of MLOps and Domain Knowledge",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 14,
+      "url": "https://arxiv.org/abs/2205.02302",
+      "title": "Machine Learning Operations (MLOps): Overview, Definition, and Architecture",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 15,
+      "url": "https://arxiv.org/abs/2103.08942",
+      "title": "Who Needs MLOps: What Data Scientists Seek to Accomplish and How Can MLOps Help?",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 16,
+      "url": "https://arxiv.org/abs/2503.15577",
+      "title": "Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 17,
+      "url": "https://arxiv.org/abs/2409.19416",
+      "title": "Machine Learning Operations: A Mapping Study",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 18,
+      "url": "https://arxiv.org/abs/2201.00162",
+      "title": "MLOps -- Definitions, Tools and Challenges",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 19,
+      "url": "https://arxiv.org/abs/2202.10169",
+      "title": "Machine Learning Operations: A Survey on MLOps Tool Support",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 20,
+      "url": "https://arxiv.org/abs/2410.21346",
+      "title": "Towards Trustworthy Machine Learning in Production: An Overview of the Robustness in MLOps Approach",
+      "category": "MLOps",
+      "status": "Real"
+    },
+    {
+      "id": 21,
+      "url": "https://arxiv.org/abs/2601.00440",
+      "title": "The dynamics of cultural systems",
+      "category": "Culture / Social Physics (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 22,
+      "url": "https://arxiv.org/abs/2601.02740",
+      "title": "Language Hierarchization Provides the Optimal Solution to Human Working Memory Limits",
+      "category": "Culture / Sociology (2026)",
+      "status": "Real"
+    },
+    {
+      "id": 23,
+      "url": "https://arxiv.org/abs/2511.08200",
+      "title": "Quantum Markov Chains: Hub-Pruned Estimation for Fashion Recommenders",
+      "category": "Fashion / Quantum Physics",
+      "status": "Real"
+    },
+    {
+      "id": 24,
+      "url": "https://arxiv.org/abs/1009.2617",
+      "title": "Understanding Fashion Cycles as a Social Choice",
+      "category": "Fashion / Social Choice Theory",
+      "status": "Real"
+    },
+    {
+      "id": 25,
+      "url": "https://arxiv.org/abs/cond-mat/0410483",
+      "title": "Fashion, Novelty and Optimality: An application from Physics",
+      "category": "Fashion / Condensed Matter Physics",
+      "status": "Real"
+    },
+    {
+      "id": 26,
+      "url": "https://arxiv.org/abs/1901.03114",
+      "title": "Fashion and art cycles are driven by counter-dominance signals of elite competition",
+      "category": "Culture / Physics and Society",
+      "status": "Real"
+    },
+    {
+      "id": 27,
+      "url": "https://arxiv.org/abs/2106.14657",
+      "title": "A new system for evaluating brand importance: A use case from the fashion industry",
+      "category": "Fashion / Social Network Analysis",
+      "status": "Real"
+    },
+    {
+      "id": 28,
+      "url": "https://arxiv.org/abs/2001.02499",
+      "title": "A Deterministic Model for the Transshipment Problem of a Fast Fashion Retailer under Capacity Constraints",
+      "category": "Clothing / Operations Research",
+      "status": "Real"
+    },
+    {
+      "id": 29,
+      "url": "https://arxiv.org/abs/1406.3561",
+      "title": "When relevance is not Enough: Promoting Visual Attractiveness for Fashion E-commerce",
+      "category": "Clothing / E-Commerce Data",
+      "status": "Real"
+    },
+    {
+      "id": 30,
+      "url": "https://arxiv.org/abs/1908.08327",
+      "title": "Session-based Complementary Fashion Recommendations",
+      "category": "Fashion / Statistical Data Mining",
+      "status": "Real"
+    }
+  ]
+}

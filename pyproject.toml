@@ -1,0 +1,20 @@
+[project]
+name = "paper-triage-agent"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.34.0",
+    "pydantic>=2.10.0",
+    "pydantic-ai>=0.2.0",
+    "pymupdf>=1.25.0",
+    "scipy>=1.14.0",
+    "mangum>=0.19.0",
+    "python-multipart>=0.0.18",
+    "tqdm>=4.66.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]

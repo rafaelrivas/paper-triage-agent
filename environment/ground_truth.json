@@ -1,0 +1,326 @@
+{
+  "labels": {
+    "reinforcement_learning_from_meta_evaluation_aligning_languag.pdf": {
+      "classification": "must-read",
+      "title": "Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels",
+      "relevance_score": 0.9
+    },
+    "reinforcement_learning_methods_for_neighborhood_selection_in.pdf": {
+      "classification": "must-read",
+      "title": "Reinforcement Learning Methods for Neighborhood Selection in Local Search",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Reinforcement Learning Methods for Neighborhood Selection in Local Search",
+      "relevance_score": 0.9
+    },
+    "statistical_reinforcement_learning_in_the_real_world_a_surve.pdf": {
+      "classification": "must-read",
+      "title": "Statistical Reinforcement Learning in the Real World: A Survey of Challenges and Future Directions",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Statistical Reinforcement Learning in the Real World: A Survey of Challenges and Future Directions",
+      "relevance_score": 0.9
+    },
+    "reinforcement_learning_via_self_distillation.pdf": {
+      "classification": "must-read",
+      "title": "Reinforcement Learning via Self-Distillation",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Reinforcement Learning via Self-Distillation",
+      "relevance_score": 0.9
+    },
+    "speculative_sampling_with_reinforcement_learning.pdf": {
+      "classification": "must-read",
+      "title": "Speculative Sampling with Reinforcement Learning",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Speculative Sampling with Reinforcement Learning",
+      "relevance_score": 0.9
+    },
+    "dr_kernel_reinforcement_learning_done_right_for_triton_kerne.pdf": {
+      "classification": "must-read",
+      "title": "Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations",
+      "relevance_score": 0.9
+    },
+    "collaborative_multi_agent_test_time_reinforcement_learning_f.pdf": {
+      "classification": "must-read",
+      "title": "Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning",
+      "relevance_score": 0.9
+    },
+    "experiential_reinforcement_learning.pdf": {
+      "classification": "must-read",
+      "title": "Experiential Reinforcement Learning",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Experiential Reinforcement Learning",
+      "relevance_score": 0.9
+    },
+    "skillrl_evolving_agents_via_recursive_skill_augmented_reinfo.pdf": {
+      "classification": "must-read",
+      "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+      "relevance_score": 0.9
+    },
+    "reuse_your_flops_scaling_rl_on_hard_problems_by_conditioning.pdf": {
+      "classification": "must-read",
+      "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
+      "domain_tags": [
+        "reinforcement-learning",
+        "rlhf",
+        "alignment"
+      ],
+      "key_contribution": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
+      "relevance_score": 0.9
+    },
+    "mlops_a_multiple_case_study_in_industry_4_0.pdf": {
+      "classification": "nice-to-read",
+      "title": "MLOps: A Multiple Case Study in Industry 4.0",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "MLOps: A Multiple Case Study in Industry 4.0",
+      "relevance_score": 0.55
+    },
+    "mlops_a_review.pdf": {
+      "classification": "nice-to-read",
+      "title": "MLOps: A Review",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "MLOps: A Review",
+      "relevance_score": 0.55
+    },
+    "addressing_quality_challenges_in_deep_learning_the_role_of_m.pdf": {
+      "classification": "nice-to-read",
+      "title": "Addressing Quality Challenges in Deep Learning: The Role of MLOps and Domain Knowledge",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Addressing Quality Challenges in Deep Learning: The Role of MLOps and Domain Knowledge",
+      "relevance_score": 0.55
+    },
+    "machine_learning_operations_mlops_overview_definition_and_ar.pdf": {
+      "classification": "nice-to-read",
+      "title": "Machine Learning Operations (MLOps): Overview, Definition, and Architecture",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Machine Learning Operations (MLOps): Overview, Definition, and Architecture",
+      "relevance_score": 0.55
+    },
+    "who_needs_mlops_what_data_scientists_seek_to_accomplish_and_.pdf": {
+      "classification": "nice-to-read",
+      "title": "Who Needs MLOps: What Data Scientists Seek to Accomplish and How Can MLOps Help?",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Who Needs MLOps: What Data Scientists Seek to Accomplish and How Can MLOps Help?",
+      "relevance_score": 0.55
+    },
+    "navigating_mlops_insights_into_maturity_lifecycle_tools_and_.pdf": {
+      "classification": "nice-to-read",
+      "title": "Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers",
+      "relevance_score": 0.55
+    },
+    "machine_learning_operations_a_mapping_study.pdf": {
+      "classification": "nice-to-read",
+      "title": "Machine Learning Operations: A Mapping Study",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Machine Learning Operations: A Mapping Study",
+      "relevance_score": 0.55
+    },
+    "mlops_definitions_tools_and_challenges.pdf": {
+      "classification": "nice-to-read",
+      "title": "MLOps -- Definitions, Tools and Challenges",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "MLOps -- Definitions, Tools and Challenges",
+      "relevance_score": 0.55
+    },
+    "machine_learning_operations_a_survey_on_mlops_tool_support.pdf": {
+      "classification": "nice-to-read",
+      "title": "Machine Learning Operations: A Survey on MLOps Tool Support",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Machine Learning Operations: A Survey on MLOps Tool Support",
+      "relevance_score": 0.55
+    },
+    "towards_trustworthy_machine_learning_in_production_an_overvi.pdf": {
+      "classification": "nice-to-read",
+      "title": "Towards Trustworthy Machine Learning in Production: An Overview of the Robustness in MLOps Approach",
+      "domain_tags": [
+        "mlops",
+        "ml-engineering",
+        "deployment"
+      ],
+      "key_contribution": "Towards Trustworthy Machine Learning in Production: An Overview of the Robustness in MLOps Approach",
+      "relevance_score": 0.55
+    },
+    "the_dynamics_of_cultural_systems.pdf": {
+      "classification": "bullshit",
+      "title": "The dynamics of cultural systems",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "The dynamics of cultural systems",
+      "relevance_score": 0.1
+    },
+    "language_hierarchization_provides_the_optimal_solution_to_hu.pdf": {
+      "classification": "bullshit",
+      "title": "Language Hierarchization Provides the Optimal Solution to Human Working Memory Limits",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "Language Hierarchization Provides the Optimal Solution to Human Working Memory Limits",
+      "relevance_score": 0.1
+    },
+    "quantum_markov_chains_hub_pruned_estimation_for_fashion_reco.pdf": {
+      "classification": "bullshit",
+      "title": "Quantum Markov Chains: Hub-Pruned Estimation for Fashion Recommenders",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "Quantum Markov Chains: Hub-Pruned Estimation for Fashion Recommenders",
+      "relevance_score": 0.1
+    },
+    "understanding_fashion_cycles_as_a_social_choice.pdf": {
+      "classification": "bullshit",
+      "title": "Understanding Fashion Cycles as a Social Choice",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "Understanding Fashion Cycles as a Social Choice",
+      "relevance_score": 0.1
+    },
+    "fashion_novelty_and_optimality_an_application_from_physics.pdf": {
+      "classification": "bullshit",
+      "title": "Fashion, Novelty and Optimality: An application from Physics",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "Fashion, Novelty and Optimality: An application from Physics",
+      "relevance_score": 0.1
+    },
+    "fashion_and_art_cycles_are_driven_by_counter_dominance_signa.pdf": {
+      "classification": "bullshit",
+      "title": "Fashion and art cycles are driven by counter-dominance signals of elite competition",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "Fashion and art cycles are driven by counter-dominance signals of elite competition",
+      "relevance_score": 0.1
+    },
+    "a_new_system_for_evaluating_brand_importance_a_use_case_from.pdf": {
+      "classification": "bullshit",
+      "title": "A new system for evaluating brand importance: A use case from the fashion industry",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "A new system for evaluating brand importance: A use case from the fashion industry",
+      "relevance_score": 0.1
+    },
+    "a_deterministic_model_for_the_transshipment_problem_of_a_fas.pdf": {
+      "classification": "bullshit",
+      "title": "A Deterministic Model for the Transshipment Problem of a Fast Fashion Retailer under Capacity Constraints",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "A Deterministic Model for the Transshipment Problem of a Fast Fashion Retailer under Capacity Constraints",
+      "relevance_score": 0.1
+    },
+    "when_relevance_is_not_enough_promoting_visual_attractiveness.pdf": {
+      "classification": "bullshit",
+      "title": "When relevance is not Enough: Promoting Visual Attractiveness for Fashion E-commerce",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "When relevance is not Enough: Promoting Visual Attractiveness for Fashion E-commerce",
+      "relevance_score": 0.1
+    },
+    "session_based_complementary_fashion_recommendations.pdf": {
+      "classification": "bullshit",
+      "title": "Session-based Complementary Fashion Recommendations",
+      "domain_tags": [
+        "off-topic"
+      ],
+      "key_contribution": "Session-based Complementary Fashion Recommendations",
+      "relevance_score": 0.1
+    }
+  },
+  "reference_ranking": [
+    "reinforcement_learning_from_meta_evaluation_aligning_languag.pdf",
+    "reinforcement_learning_methods_for_neighborhood_selection_in.pdf",
+    "statistical_reinforcement_learning_in_the_real_world_a_surve.pdf",
+    "reinforcement_learning_via_self_distillation.pdf",
+    "speculative_sampling_with_reinforcement_learning.pdf",
+    "dr_kernel_reinforcement_learning_done_right_for_triton_kerne.pdf",
+    "collaborative_multi_agent_test_time_reinforcement_learning_f.pdf",
+    "experiential_reinforcement_learning.pdf",
+    "skillrl_evolving_agents_via_recursive_skill_augmented_reinfo.pdf",
+    "reuse_your_flops_scaling_rl_on_hard_problems_by_conditioning.pdf"
+  ]
+}
